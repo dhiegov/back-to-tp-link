@@ -1,0 +1,5 @@
+
+# OpenWrt
+Host 192.168.1.1
+    KexAlgorithms +diffie-hellman-group14-sha1
+    HostKeyAlgorithms ssh-rsa,ssh-dss
